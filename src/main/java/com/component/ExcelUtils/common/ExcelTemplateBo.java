@@ -574,7 +574,7 @@ public class ExcelTemplateBo {
             distCell.setCellComment(srcCell.getCellComment());
         }
 
-        CellType srcCellType = srcCell.getCellType();
+        CellType srcCellType = CellType.forInt(srcCell.getCellType());
         distCell.setCellType(srcCellType);
         if (srcCellType.getCode() == 0) {
             if (HSSFDateUtil.isCellDateFormatted(srcCell)) {

@@ -32,4 +32,5 @@ public class TestPicture {
 
     private String reserved1;
     private String reserved2;
+    private String reserved3;
 }

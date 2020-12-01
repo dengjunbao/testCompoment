@@ -4,10 +4,7 @@ import com.component.ExcelUtils.annotation.ExcelResources;
 import com.component.ExcelUtils.componemet.IExcelComponent;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.poi.hssf.usermodel.HSSFWorkbook;
-import org.apache.poi.ss.usermodel.Cell;
-import org.apache.poi.ss.usermodel.Row;
-import org.apache.poi.ss.usermodel.Sheet;
-import org.apache.poi.ss.usermodel.Workbook;
+import org.apache.poi.ss.usermodel.*;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 import org.apache.commons.beanutils.BeanUtils;
 import org.springframework.stereotype.Component;
@@ -255,7 +252,8 @@ public class ExcelComponent implements IExcelComponent {
 
     private String getCellValue(Cell c) {
         String o = null;
-        switch(c.getCellType().getCode()) {
+        CellType srcCellType = CellType.forInt(c.getCellType());
+        switch(srcCellType.getCode()) {
             case 0:
                 o = String.valueOf(c.getNumericCellValue());
                 break;
