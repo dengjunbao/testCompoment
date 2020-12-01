@@ -2,8 +2,6 @@ package com.component.ExcelUtils.utils;
 
 import com.component.ExcelUtils.componemet.IResourceComponent;
 import com.component.ExcelUtils.containers.ComponentContainer;
-import com.component.test.ExcelUtils.componemet.IResourceComponent;
-import com.component.test.ExcelUtils.containers.ComponentContainer;
 
 /**
  * @Author: bao

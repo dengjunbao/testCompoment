@@ -1,7 +1,6 @@
 package com.component.ExcelUtils.utils;
 
 import com.alibaba.fastjson.JSON;
-import com.component.test.ExcelUtils.base.BaseModel;
 import org.apache.commons.codec.binary.Base64;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.web.context.request.RequestContextHolder;

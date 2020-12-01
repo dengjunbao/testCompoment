@@ -1,8 +1,7 @@
 package com.component.ExcelUtils.common;
 
 import com.component.ExcelUtils.utils.ExcelUtil;
-import com.component.test.ExcelUtils.utils.ComUtils;
-import com.component.test.ExcelUtils.utils.ExcelUtil;
+import com.component.ExcelUtils.utils.ComUtils;
 import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;

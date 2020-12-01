@@ -1,8 +1,7 @@
 package com.component.ExcelUtils.containers;
 
 import com.component.ExcelUtils.base.IBaseComponent;
-import com.component.test.ExcelUtils.base.IBaseComponent;
-import com.component.test.ExcelUtils.utils.ComUtils;
+import com.component.ExcelUtils.utils.ComUtils;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;

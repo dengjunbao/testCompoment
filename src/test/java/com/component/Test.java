@@ -1,4 +1,4 @@
-package com.component.test;
+package com.component;
 
 /**
  * @Author: bao

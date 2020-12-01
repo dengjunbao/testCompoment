@@ -1,9 +1,8 @@
 package com.component.ExcelUtils.base;
 
+import com.component.ExcelUtils.dto.AjaxResult;
 import com.component.ExcelUtils.utils.IPUtil;
-import com.component.test.ExcelUtils.dto.AjaxResult;
-import com.component.test.ExcelUtils.utils.IPUtil;
-import com.component.test.ExcelUtils.utils.ResourceUtil;
+import com.component.ExcelUtils.utils.ResourceUtil;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.web.context.request.RequestContextHolder;
 import org.springframework.web.context.request.ServletRequestAttributes;

@@ -1,9 +1,8 @@
 package com.component.controller;
 
-import com.component.test.service.DynamicProxy;
-import com.component.test.service.Subject;
-import com.component.test.service.impl.RealSubject;
-import org.springframework.stereotype.Service;
+import com.component.service.DynamicProxy;
+import com.component.service.Subject;
+import com.component.service.impl.RealSubject;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Proxy;

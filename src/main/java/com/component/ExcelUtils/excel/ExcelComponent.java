@@ -1,7 +1,7 @@
 package com.component.ExcelUtils.excel;
 
-import com.component.test.ExcelUtils.annotation.ExcelResources;
-import com.component.test.ExcelUtils.componemet.IExcelComponent;
+import com.component.ExcelUtils.annotation.ExcelResources;
+import com.component.ExcelUtils.componemet.IExcelComponent;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 import org.apache.poi.ss.usermodel.Cell;

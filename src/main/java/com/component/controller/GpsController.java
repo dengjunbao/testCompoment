@@ -4,8 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 import com.component.entity.Position;
-import com.component.test.entity.Position;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;

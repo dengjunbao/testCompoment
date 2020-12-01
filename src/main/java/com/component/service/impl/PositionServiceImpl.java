@@ -1,7 +1,7 @@
 package com.component.service.impl;
 
-import com.component.test.entity.Position;
-import com.component.test.service.PositionServiec;
+import com.component.entity.Position;
+import com.component.service.PositionServiec;
 import org.springframework.cache.annotation.CacheConfig;
 import org.springframework.cache.annotation.CachePut;
 import org.springframework.cache.annotation.Cacheable;

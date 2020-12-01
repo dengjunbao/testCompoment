@@ -1,7 +1,6 @@
 package com.component.ExcelUtils.componemet;
 
 import com.component.ExcelUtils.base.IBaseComponent;
-import com.component.test.ExcelUtils.base.IBaseComponent;
 
 /**
  * @Author: bao

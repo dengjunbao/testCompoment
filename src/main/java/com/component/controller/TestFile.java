@@ -1,7 +1,7 @@
 package com.component.controller;
 import com.component.entity.TestPicture;
-import com.component.test.dao.TestPictureDao;
-import com.component.test.entity.TestPicture;
+import com.component.dao.TestPictureDao;
+import com.component.entity.TestPicture;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.multipart.MultipartFile;

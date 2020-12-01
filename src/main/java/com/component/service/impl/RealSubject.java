@@ -1,6 +1,6 @@
 package com.component.service.impl;
 
-import com.component.test.service.Subject;
+import com.component.service.Subject;
 
 /**
  * @Author: bao

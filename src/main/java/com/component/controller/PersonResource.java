@@ -1,6 +1,5 @@
 package com.component.controller;
 import com.component.entity.Person;
-import com.component.test.entity.Person;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.RequestMapping;

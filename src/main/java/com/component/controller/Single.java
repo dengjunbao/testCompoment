@@ -1,7 +1,7 @@
 package com.component.controller;
 
 import com.component.entity.Person;
-import com.component.test.entity.Person;
+import com.component.entity.Person;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,25 +1,9 @@
 package com.component.controller;
 
-import com.alibaba.fastjson.JSON;
-import com.alibaba.fastjson.JSONObject;
-import com.component.test.model.Human;
-import com.component.test.model.People;
-import com.component.test.utils.StringUtils;
-import com.monitorjbl.xlsx.StreamingReader;
-import com.sun.javaws.CacheUtil;
-import org.apache.poi.ss.usermodel.*;
-import org.apache.poi.util.StringUtil;
 import org.junit.Test;
-import org.springframework.beans.BeanUtils;
-import org.thymeleaf.util.DateUtils;
-
-import java.io.FileInputStream;
-import java.math.BigDecimal;
 import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 public class Main {
 /*    public static void main(String[] args) {

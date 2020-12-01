@@ -1,7 +1,7 @@
 package com.component.ExcelUtils.dto;
 
 
-import com.component.test.ExcelUtils.annotation.ExcelResources;
+import com.component.ExcelUtils.annotation.ExcelResources;
 
 import java.math.BigDecimal;
 

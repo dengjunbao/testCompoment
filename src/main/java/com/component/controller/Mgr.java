@@ -1,9 +1,5 @@
 package com.component.controller;
 
-import com.component.test.service.PositionServiec;
-import com.component.test.service.impl.PositionServiceImpl;
-import org.springframework.beans.factory.annotation.Autowired;
-
 /**
  * @Author: bao
  * @Date: 2019/5/17 16:01

@@ -1,6 +1,6 @@
 package com.component.controller;
 
-import com.component.test.entity.Person;
+import com.component.entity.Person;
 import com.fasterxml.jackson.databind.util.BeanUtil;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;

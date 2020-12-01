@@ -1,6 +1,6 @@
 package com.component.ExcelUtils.model;
 
-import com.component.test.ExcelUtils.base.BaseModel;
+import com.component.ExcelUtils.base.BaseModel;
 
 import javax.persistence.*;
 import java.math.BigDecimal;

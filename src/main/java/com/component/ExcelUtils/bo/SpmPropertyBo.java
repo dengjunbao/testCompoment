@@ -1,7 +1,6 @@
 package com.component.ExcelUtils.bo;
 
 import com.component.ExcelUtils.model.SpmProperty;
-import com.component.test.ExcelUtils.model.SpmProperty;
 
 import java.math.BigDecimal;
 

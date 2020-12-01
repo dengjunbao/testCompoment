@@ -1,7 +1,7 @@
 package com.component.ExcelUtils.utils;
 
-import com.component.test.ExcelUtils.componemet.IExcelComponent;
-import com.component.test.ExcelUtils.containers.ComponentContainer;
+import com.component.ExcelUtils.componemet.IExcelComponent;
+import com.component.ExcelUtils.containers.ComponentContainer;
 
 import javax.servlet.http.HttpServletResponse;
 import java.io.FileNotFoundException;

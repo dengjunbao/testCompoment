@@ -1,6 +1,6 @@
 package com.component.service;
 
-import com.component.test.entity.Position;
+import com.component.entity.Position;
 
 import java.util.List;
 

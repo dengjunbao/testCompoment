@@ -3,14 +3,10 @@ package com.component.ExcelUtils.controller;
 import com.component.ExcelUtils.base.BaseController;
 import com.component.ExcelUtils.bo.SpmPropertyBo;
 import com.component.ExcelUtils.dto.SpmPropertyDto;
-import com.component.test.ExcelUtils.base.BaseController;
-import com.component.test.ExcelUtils.bo.SpmPropertyBo;
-import com.component.test.ExcelUtils.common.ExcelUitlsTo;
-import com.component.test.ExcelUtils.dto.SpmPropertyDto;
-import com.component.test.ExcelUtils.utils.ComUtils;
-import com.component.test.ExcelUtils.utils.DateUtil;
+import com.component.ExcelUtils.common.ExcelUitlsTo;
+import com.component.ExcelUtils.utils.ComUtils;
+import com.component.ExcelUtils.utils.DateUtil;
 import org.springframework.stereotype.Controller;
-import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 

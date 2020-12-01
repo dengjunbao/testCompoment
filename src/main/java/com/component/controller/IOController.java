@@ -1,6 +1,5 @@
 package com.component.controller;
 
-import java.applet.Applet;
 import java.io.*;
 
 /**

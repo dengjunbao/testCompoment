@@ -1,6 +1,6 @@
 package com.component.controller;
 import com.component.entity.Position;
-import com.component.test.entity.Position;
+import com.component.entity.Position;
 
 import java.io.*;
 
